@@ -88,8 +88,8 @@ plt.imshow(single_image,cmap='gray')
 y_train_onehot[500]
 X_train_scaled = X_train_scaled.reshape(-1,28,28,1)
 X_test_scaled = X_test_scaled.reshape(-1,28,28,1)
-Name: VASUNDRA SRI R
 
+Name: VASUNDRA SRI R
 Register Number: 212222230168
 
 model = keras.Sequential()
